@@ -90,4 +90,4 @@ A API estará disponível em `http://localhost:3333`
 
 ---
 
-Desenvolvido com ❤️ durante o NLW da Rocketseat 
+Desenvolvido durante o NLW da Rocketseat 
